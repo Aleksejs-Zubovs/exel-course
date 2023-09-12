@@ -1,0 +1,27 @@
+Webpack (imports/exports)
+    Babel приводит из новых версий в старые версии
+    Scss
+    Eslint
+    2 modes^
+        - Dev
+            Dev Server (пересборка), SourceMaps (для стилей), Eslint (для чистоты кода), Not Minified JS & CSS
+        - Prod
+            Minified Code
+Git (система контроля версий)
+
+    Production
+        1.0.0
+        0 _______
+
+    Development
+        1.0.2
+        1 _________  + __PR (pull request запрос на совмещение)
+        2 _________ (branch разработка фичи в отдельной ветке)
+
+
+{
+  "name": "exel-course",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
